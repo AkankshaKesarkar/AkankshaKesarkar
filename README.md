@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Akanksha%20Kesarkar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=✦%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Analytics%20✦&descAlignY=62&descSize=17&stroke=6366f1&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Akanksha%20Kesarkar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=✦%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Analytics%20✦&descAlignY=63&descSize=18&stroke=a78bfa&strokeWidth=2" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=🚀+Building+AI-Powered+Full+Stack+Platforms;⚡+Python+%7C+FastAPI+%7C+React+%7C+scikit-learn;🤖+Turning+Raw+Data+into+Intelligent+Insights;💡+Never+Give+Up+—+Accept+the+Challenge!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=780&lines=🚀+Building+AI-Powered+Full+Stack+Platforms;✨+Crafting+Elegant+Code+with+Purpose;🤖+Turning+Raw+Data+into+Intelligent+Insights;💫+Never+Give+Up+—+Accept+the+Challenge!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,35 +18,27 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp;About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="35px"/> &nbsp; About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="310" alt="developer gif"/>
 
-```python
-class AkankshaKesarkar:
-    
-    def __init__(self):
-        self.name        = "Akanksha Kesarkar"
-        self.role        = "Full Stack Developer & AI Enthusiast"
-        self.location    = "Karnataka, India 🇮🇳"
-        self.languages   = ["Python", "JavaScript", "HTML", "CSS"]
-        self.stack       = {
-            "frontend" : ["React", "Vite", "Tailwind"],
-            "backend"  : ["FastAPI", "REST APIs"],
-            "data_ai"  : ["Pandas", "NumPy", "scikit-learn",
-                          "HuggingFace"],
-            "devops"   : ["Docker", "Git", "Vercel"]
-        }
-        self.building    = "🤖 AI CSV Analyzer — Full Stack Platform"
-        self.learning    = ["LLMs", "MLOps", "Cloud Deployment"]
-        self.motto       = "Never Give Up, Accept the Challenge! 💪"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing 🚀")
+<br/>
 
-me = AkankshaKesarkar()
-me.say_hi()
-```
+🎯 &nbsp; **Full Stack Developer** crafting AI-powered web platforms
+
+🌍 &nbsp; Based in **Karnataka, India** — building for the world
+
+🔭 &nbsp; Currently building **AI CSV Analyzer** — a real-time data intelligence platform
+
+🌱 &nbsp; Exploring **LLMs, MLOps & Cloud Architecture**
+
+⚡ &nbsp; Stack: **Python · FastAPI · React · scikit-learn · HuggingFace**
+
+🏆 &nbsp; Passionate about **Data, AI, and impactful engineering**
+
+💬 &nbsp; Open to **Internships · Collaborations · Open Source**
+
+✨ &nbsp; Motto: ***"Never Give Up — Accept the Challenge!"***
 
 <br clear="right"/>
 
@@ -54,9 +46,18 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> &nbsp;Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35px"/> &nbsp; Tech Arsenal
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70px"/>
+
+<br/><br/>
 
 ### ◈ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,7 +70,7 @@ me.say_hi()
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ◈ Backend & AI/Data
+### ◈ Backend & AI / Data
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -89,9 +90,13 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 &nbsp;Featured Project — Currently Building
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35px"/> &nbsp; Featured Project — Currently Building
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="380" alt="AI Platform"/>
+
+<br/><br/>
 
 <a href="https://github.com/AkankshaKesarkar/ai-csv-analyzer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkankshaKesarkar&repo=ai-csv-analyzer&theme=tokyonight&border_color=6366f1&border_radius=10&show_owner=true" />
@@ -99,18 +104,18 @@ me.say_hi()
 
 <br/><br/>
 
-| Feature | Description |
-|:---:|:---|
-| 📤 **CSV Upload** | Drag & drop any CSV file for instant processing |
-| 📈 **Live Market Data** | Fetch real-time financial data on demand |
-| 🤖 **AI Insights** | Smart summaries, trends & anomaly detection |
-| ⚡ **FastAPI Backend** | High-performance async Python API |
-| 🎨 **React Frontend** | Sleek, responsive UI built with Vite |
-| 🐳 **Dockerized** | One-command deployment anywhere |
+| &nbsp; | Feature | Description |
+|:---:|:---:|:---|
+| 📤 | **CSV Upload** | Drag & drop any CSV file for instant processing |
+| 📈 | **Live Market Data** | Fetch real-time financial data on demand |
+| 🤖 | **AI Insights** | Smart summaries, trends & anomaly detection |
+| ⚡ | **FastAPI Backend** | High-performance async Python API |
+| 🎨 | **React Frontend** | Sleek, responsive UI built with Vite |
+| 🐳 | **Dockerized** | One-command deployment anywhere |
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐%20LIVE%20DEMO-Click%20Here-6366f1?style=for-the-badge&logoColor=white)](https://ai-csv-analyzer-beta.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐%20LIVE%20DEMO-Click%20Here-6366f1?style=for-the-badge)](https://ai-csv-analyzer-beta.vercel.app)
 [![View Code](https://img.shields.io/badge/📂%20VIEW%20CODE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AkankshaKesarkar/ai-csv-analyzer)
 
 </div>
@@ -119,11 +124,11 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 &nbsp;GitHub Stats & Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35px"/> &nbsp; GitHub Stats & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkankshaKesarkar&show_icons=true&theme=tokyonight&border_color=6366f1&border_radius=10&include_all_commits=true&count_private=true&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AkankshaKesarkar&show_icons=true&theme=tokyonight&border_color=6366f1&border_radius=10&include_all_commits=true&count_private=true" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaKesarkar&layout=compact&theme=tokyonight&border_color=6366f1&border_radius=10&langs_count=8" height="180"/>
 
@@ -145,21 +150,21 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌱 &nbsp;Currently Exploring
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="35px"/> &nbsp; Currently Exploring
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   🧠  Large Language Models (LLMs) & Prompt Engineering         │
-│   ☁️  Cloud Deployment — AWS / GCP fundamentals                 │
-│   🔁  MLOps & Model Serving Pipelines                           │
-│   📊  Advanced Data Visualization & Dashboarding               │
-│   🔐  API Security & Best Practices                             │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400" alt="exploring AI"/>
+
+<br/><br/>
+
+| Topic | Focus Area |
+|:---:|:---|
+| 🧠 | **Large Language Models (LLMs)** — Prompt Engineering & Fine-tuning |
+| ☁️ | **Cloud Deployment** — AWS / GCP Fundamentals |
+| 🔁 | **MLOps** — Model Serving & Monitoring Pipelines |
+| 📊 | **Advanced Data Visualization** — Dashboarding & Storytelling |
+| 🔐 | **API Security** — Auth, Rate Limiting & Best Practices |
 
 </div>
 
@@ -167,21 +172,25 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🤝 &nbsp;Let's Connect & Collaborate
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="35px"/> &nbsp; Let's Connect & Collaborate
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90px"/>
+
+<br/><br/>
+
 <a href="https://linkedin.com/in/akanksha-kesarkar">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Akanksha+Kesarkar"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Akanksha%20Kesarkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/AkankshaKesarkar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&label=AkankshaKesarkar"/>
+  <img src="https://img.shields.io/badge/GitHub-AkankshaKesarkar-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-> 💬 **Open to:** Internships • Full-time Roles • Open Source Collaboration • AI/Data Projects
+> 💼 **Open to:** Internships &nbsp;•&nbsp; Full-time Roles &nbsp;•&nbsp; Open Source &nbsp;•&nbsp; AI/Data Projects
 >
 > 📩 **Reach out** — I'd love to connect and build something impactful together!
 
@@ -191,14 +200,16 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 <br/>
 
-**✦ Never Give Up — Accept the Challenge — Be Confident! ✦**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20px"/>
+**Never Give Up — Accept the Challenge — Be Confident!**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20px"/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> &nbsp; *Made with ❤️ and lots of ☕ by Akanksha*
+<br/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+*Made with* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="18px"/> *and lots of* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20Drink/Hot%20Beverage.png" width="18px"/> *by Akanksha*
 
 </div>
